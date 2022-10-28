@@ -5,9 +5,9 @@ Olá, eu sou o Léo Salomão
   <img height="180em" src="https://lh3.googleusercontent.com/rjkukKCbTIcfEXyOhaXNRnTtX8KMVGJ_sB80398cGCLi4-99f9upM8iu5r3foHWmQdx-dKjORaHU0mmbS0fF0MXP3AU5cOBMQrl--bFJFXEMZCansqqNVVXAPH-6YRQTQQRNHD9umSnl6uCLb9NE7n83Fk-BDqbUlEaZxHWOsy_tOGYuPY1a6fIsY6u9EI75rphaQd30J3Q71N0FPAY83dZaFsPAydnVmfjPHjvC2wUke_IQ8kVj1HcMonC4Y3Y9SnLAytA96pfBKu_Y-kWG-rqewPAC1rOWtF1Bl9HtzsQPK0xjkbHOISMfev_joxO5ta06D_j-umQviN304u3quIpnRPCHA10aLq1l2LOQWXKWNrrFrYm23oZ-6xOtDN6YPJRiwVdqjFkiy7vX1rQs34fgLEktzHDeAcM1yvuWEf1STLOCUKgp4wfp-K6rzulrPvVtJ5i94bd11R_RNFJ7lpKQOCLv80IEivGYSLexcwcO5reRe4Fhv4iEdJLsxvy9aopxwEOmfnYwMb3Fz9vQheh1xLMEtikAlHiJjqXcALX_v9FjWAR5F066cFN-qlBIJkNQHqW-YbE2QgRlsuV9xvAriP5nHESEjGYRcsx7mAdAVwIaa8fB_zWFEcHprqorBMIKy1X_5m-Syb8WKJNtF7iAlZ8bfengagtT-hiM516tdwSZXbHuPOS64TDpCUNUpFsP2CLPkWmQbrDNHkbxzN7nhQOdrKCNE0ifhkB9bHmEigcw4GJ3aiNwFNdkCKGDR9DJSkKOHNeICbUGtAsx_wz_OF--gtEjdktOc5CpHu-5h_AnSid5zcRFG4SyAIaXMczc_XlPsjVjxULPuUZJuCBbvOebPpIF54qFSrI772qSs_NOiAqrCieU6Cz_zXlRbx_-Lo4wMVD2Hs0cXHt76fca68SqrV2vSLuHW_OR33aoCTHeXWFvlsotLKoDj6yMp_KFgV8E5koFdSAf2cYQ=w764-h541-no?authuser=0"/>
 </div>
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
-<div align="center">
+<div>
   <a href="https://github.com/leonamsalomao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonamsalomao&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonamsalomao&layout=compact&langs_count=7&theme=gruvbox"/>
