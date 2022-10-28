@@ -9,7 +9,7 @@ Olá, eu sou o Léo Salomão!
 ##
 
 <div align="center">
-  <img width="100%" height="180em" src="https://solvimm.com/wp-content/uploads/2018/07/o-que-e-saas-capa.png"/>
+  <img width="100%" height="280em" src="https://solvimm.com/wp-content/uploads/2018/07/o-que-e-saas-capa.png"/>
 </div>
 
 <br/><br/><br/>
