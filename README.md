@@ -1,8 +1,10 @@
 Olá, eu sou o Léo Salomão!
 
-👨🏻‍💻 Turma 04 do Explorer - Rocketseat
-🤓 Mentorado da Jakeliny Gracielly - Marmitech
-💻 Procurando minha primeira vaga como Dev.
+<p>
+👨🏻‍💻 Turma 04 do Explorer - Rocketseat <br/>
+🤓 Mentorado da Jakeliny Gracielly - Marmitech <br/>
+💻 Procurando minha primeira vaga como Dev. <br/>
+<p/>
 
 ##
 
