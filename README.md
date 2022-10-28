@@ -7,7 +7,7 @@ Olá, eu sou o Léo Salomão
 
 <br/><br/><br/>
 
-<div>
+<div align="justify">
   <a href="https://github.com/leonamsalomao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonamsalomao&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonamsalomao&layout=compact&langs_count=7&theme=gruvbox"/>
