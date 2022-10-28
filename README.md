@@ -8,7 +8,7 @@ Olá, eu sou o Léo Salomão
 </div>
   
 <div align="center">
-  <img height="180em" src="https://drive.google.com/file/d/1n-unk8sbEeFj9czhw1LBH07CqwvfhB5O/view?usp=share_link"/>
+  <img height="180em" src="[https://drive.google.com/file/d/1n-unk8sbEeFj9czhw1LBH07CqwvfhB5O/view?usp=share_link](https://lh3.googleusercontent.com/TNvdDcU1NPDhemdoy2HmV-HVWQt1l_842MG7seAsKk9vS4KNY9L1p7ibvfbvc9ZBKmZIYv6pPWLVZs-kqWhDd0ueA0J6cdkXhsM8aOZkcQAh62iGZv4c5QAbHgg3-MdZx_A_r93sqxG_puKC04zdpq8hG3Ven1sRQsUtvwVJ51uXX4FkSOMBGANKrQax4bJZ0Tc5rcy2YiLtjWkdMNadQmTRKofmk1p7KV5W1iHoBZFAKHIQJxRYeudQTcr2PeMe9enEVS-WdK7bt8RMROerGrDPv-ui5TVyBEj6cFcCyJHDweJCg6VtrouWg2iwoQSCEGi2wO2RJuUgUTiddjyibrupK0DCAFAdbIO2Gtgtq0aocrrAUdZwxH28gfItCyjGBoNRkXe2xUgK8vzJbpkNGI2JHp4So6PAG2Yn983AFn-iJZHtdmLof9HZznzaPkd6984w1Fm7ColJhcT_izpnO76K5iMvBHLjbMj8dX4BstbZxZ4eqEOercCKT9Ob2Ci-6_v49sWmUSUJfqdhyFNfn6RKCxhqAvNe8WCIo4qUK569toXxNByMIhD26muw_x6TuUpK2AlEzre8_8imosdqzhPtVQYoYwnpLiVdY9mdz1Yk5rniPaeoenIVsCo4dcTtziuD5Hfk3-jkzDXIOMmflcwUFn-pXNCDjeZbvtWUBg3_q17gureWWb-ybtTpMJscT6uD0bMRoTm1FfC1dohoZtFLALoQp5o5lN5Uvz6z8waLaPEjJzgXSH0HL2XO5piVGg5OB9-5i5WJDGXdif7VOMwd-f7LqoaOGFmt7BeH30m8Hn3jSM5Q5vqaf_Tidi6lm9O12IUI1GIoMjgf-3Dyp0GIBFPhtzhPgG2ktJbwYU3AbwR-UyvPttUHRhCtKSV5Sj-7I7g3EQQgmDQSQ-rhM-LP9n_25nPdvlnGLwi4zZwfeE3OXY2mlKwK7h8lZhMPL5PBVxYecm6h-CxZLwwe=w968-h815-no?authuser=0)"/>
 </div>
 
 <div style="display: inline_block"><br>
