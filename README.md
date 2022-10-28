@@ -9,7 +9,7 @@ Olá, eu sou o Léo Salomão!
 ##
 
 <div align="center">
-  <img width="100%" height="280em" src=""/>
+  <width="100%" height="280em" src=""/>
 </div>
 
 <br/><br/><br/>
